@@ -184,13 +184,7 @@ avrdude -c arduino \
 
 ---
 
-# Results
 
-| Hardware Setup | LCD Output |
-|----------------|------------|
-| Add hardware image here | Add LCD output image here |
-
----
 
 # Future Enhancements
 
