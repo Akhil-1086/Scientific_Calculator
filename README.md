@@ -201,13 +201,4 @@ avrdude -c arduino \
 - Matrix operations
 - Additional scientific functions
 
----
 
-# Report
-
-A detailed report describing the hardware design, software implementation, mathematical algorithms, and working principle is included in the repository.
-
-
-# License
-
-This project is released for educational and academic purposes.
