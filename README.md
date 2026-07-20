@@ -141,10 +141,9 @@ The calculator supports both basic arithmetic operations and scientific computat
 ```text
 Scientific-Calculator
 │
-├── main.c
+├── calc.c
 ├── lcd.c
 ├── lcd.h
-├── Makefile
 │
 ├── images
 │   ├── hardware.jpg
