@@ -4,12 +4,6 @@
 
 ### AVR-Based Scientific Calculator with Custom Mathematical Function Implementation
 
----
-
-**Language:** C  
-**Platform:** ATmega328P (Arduino Uno)  
-**Compiler:** AVR-GCC  
-**Display:** 16×2 LCD
 
 </div>
 
@@ -164,23 +158,7 @@ Scientific-Calculator
 
 ---
 
-# Compilation
 
-Compile the project using AVR-GCC.
-
-```bash
-make
-```
-
-Upload the generated HEX file.
-
-```bash
-avrdude -c arduino \
--p atmega328p \
--P COM3 \
--b115200 \
--U flash:w:main.hex
-```
 
 ---
 
